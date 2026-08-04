@@ -1,2 +1,2 @@
-# javascript-youtube
-a code repo for javascript series at youtube
+# javascript
+My Learning Progress of JavaScript from Basic.
