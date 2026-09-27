@@ -21,10 +21,16 @@ let isLoggedIn = false; //boolean datatype
 //symbol is used to store unique value which is not equal to any other value
 //object is used to store key value pair data
  
-
+        //-----------Checking the data type----------//
 //typeof is used to check the datatype of variable
 console.log(typeof name); //string
 console.log(typeof age); //number
 console.log(typeof isLoggedIn); //boolean
 console.log(typeof null); //object
 console.log(typeof undefined); //undefined
+
+//-------------types of datatypes in js----------------//
+//Primitive datatypes: 7types - number, string, boolean, null, undefined, symbol, BigInt
+//they are call by value because they are stored in stack memory and they are immutable
+
+//Non-primitive datatypes: object, array, function
