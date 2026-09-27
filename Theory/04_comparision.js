@@ -22,3 +22,15 @@ console.log(undefined > 0); // false
 console.log(2 === 2); // true
 console.log(2 === "2"); // false    
 console.log(2 !== "2"); // true
+/*
+>    greater than
+<    less than
+>=   greater than or equal
+<=   less than or equal
+===  strictly equal
+!==  strictly not equal
+
+&&   AND → both must be true
+||   OR  → at least one must be true
+!    NOT → reverses true/false
+*/
